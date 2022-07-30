@@ -1,6 +1,5 @@
-# Traduce_con_Xayah
+# Traduce Con Xayah
 
-Quote 
+## Quote 
 > "No se lamenta lo que se falla, se celebra lo que se da"
-
 _Anonymous_ 
