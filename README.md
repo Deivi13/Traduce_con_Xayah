@@ -22,6 +22,7 @@ pip install translate
 For more information please visit: 
 
 https://pypi.org/project/translate/ 
+&
 https://docs.python.org/3/library/tk.html
 
 
