@@ -10,9 +10,9 @@ _Anonymous_
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+pip install tk
 ```
 
 ```bash
-pip install foobar
+pip install translate
 ```
